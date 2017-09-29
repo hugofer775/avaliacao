@@ -1,1 +1,17 @@
-Testando Git
+
+    O que é a gerência de configuração e qual sua importância no processo de desenvolvimento de software?
+    O que são itens de configuração?
+    De acordo com o MPS.BR, quais os resultados esperados para o processo de gerência de configuração?
+    Como se dá o processo de gerência de configuração (exemplifique e indique softwares/ferramentas que auxiliem esse tipo de gerência)?
+    GitHub
+        O que é e qual sua função?
+        Guia de uso (tutorial passo-a-passo) (Instalação/configuração, criar conta, postar arquivos.... comandos básicos)
+        Criar um conta e postar um ou mais documentos (informar o endereço da sua conta no trabalho)
+        Fazer alterações no(s) documento(s) e envia-lo novamente ao repositório (capturar "print" da tela e postar no trabalho)
+        Obs: Se necessário, o professor irá solicitar ao aluno que mostre o repositório com o histórico de mudanças
+    NÃO FAÇA OU PASSE CÓPIAS DO TRABALHO. SE DETECATADAS O TRABALHO SERÁ ANULADO E OS ENVOLVIDOS FICARÃO COM NOTA ZERO.
+    Bonus de até 1,5 ponto para o aluno que fizer a apresentação do tema. Manifestar até dia 14/09/2017. Se manifestar e não apresentar perderá 1 pontos na nota.
+        Diogo
+        Adonias
+        Ismael
+    Trabalho acadêmico: capa, índice, introdução, desenvolvimento e conclusão. Citar referências de consulta no formato da ABNT.
